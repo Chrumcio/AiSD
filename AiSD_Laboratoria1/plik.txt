@@ -1,0 +1,4 @@
+Indeks Nazwisko Imie Ocena
+242424 Krychowiak Marcin 5.0
+201589 Lewandowki Robert 2.0
+272512 Lelewecoki Jakub 3.5
